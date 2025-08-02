@@ -1,6 +1,6 @@
 package br.com.dio.challenge.domain;
 
-public class Course extends Info {
+public class Course extends Content {
 	private int workload;
 
 	public int getWorkload() {

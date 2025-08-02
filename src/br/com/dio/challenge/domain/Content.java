@@ -1,6 +1,6 @@
 package br.com.dio.challenge.domain;
 
-public abstract class Info {
+public abstract class Content {
 	protected static final double STANDARD_XP = 10d;
 	
 	private String name;

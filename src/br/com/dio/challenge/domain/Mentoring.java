@@ -2,7 +2,7 @@ package br.com.dio.challenge.domain;
 
 import java.time.LocalDateTime;
 
-public class Mentoring extends Info {
+public class Mentoring extends Content {
 	private LocalDateTime date;
 
 	@Override
